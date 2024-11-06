@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">A passionate Software Engineer and Flutter Developer From Pakistan</h3>
 
-- 🔭 I’m currently working on Flutter Project [Beard Friends](https://github.com/Muhammad-Faisal749/beard_friend_project)
+- 🔭 I’m currently working on Flutter Project [XO Black]
 
-- 🌱 I’m currently learning **Flutter Api's and Firebase**
+- 🌱 I’m currently working on Apis Integration.
 
 - 📫 How to reach me **mrfaisal749@gmail.com**
 
